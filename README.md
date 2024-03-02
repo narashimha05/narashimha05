@@ -1,12 +1,19 @@
+
+![240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e (1)](https://github.com/narashimha05/narashimha05/assets/139961244/e7d3830c-20b9-4c4d-bdd7-0afc60416d91)
+
+
 <h1 align="center">Meet 🚀 Chinnari Narashimha Prasad: Developer Extraordinaire</h1>
 <h3 align="center">The Harmony of Full-Stack: Blending Front-End Flourishes with Back-End Robustness</h3>
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=narashimha05&label=Profile%20views&color=0e75b6&style=flat" alt="narashimha05" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=narashimha05" alt="narashimha05" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/narashimha05" target="blank"><img src="https://img.shields.io/twitter/follow/narashimha05?logo=twitter&style=for-the-badge" alt="narashimha05" /></a> </p>
+
+
+![212741999-016fddbd-617a-4448-8042-0ecf907aea25 (1)](https://github.com/narashimha05/narashimha05/assets/139961244/fd2b37bd-3395-4851-b5b6-6f4f31a44721)
+
 
 - 🔭 I’m currently working on **Backend development and Data Analytics**
 
