@@ -24,7 +24,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/narashimha05](https://github.com/narashimha05)
 
-- 📝 Feel free to check out my latest article on Medium! [https://medium.com/@chinnarinarashimha/a-more-to-know-about-pandas-series-and-a-small-chunk-of-python-lists-a0e8f3faa1d3](https://medium.com/@chinnarinarashimha/a-more-to-know-about-pandas-series-and-a-small-chunk-of-python-lists-a0e8f3faa1d3)
+- 📝 Feel free to check out my latest article on Medium! [https://medium.com/@chinnarinarashimha/a-more-to-know-about-pandas-series-and-a-small-chunk-of-python-lists-a0e8f3faa1d3](https://medium.com/@chinnarinarashimha)
 
 - 💬 Ask me about **Data Analytics and frontend Development**
 
