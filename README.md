@@ -30,6 +30,8 @@
 
 - 📫 How to reach me **chinnarinarashimha@gmail.com**
 
+- ✍️ Do Checkout my blogs on Medium: **https://medium.com/@chinnarinarashimha**
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
