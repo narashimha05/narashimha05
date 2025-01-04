@@ -26,8 +26,6 @@
 
 - 📝 Feel free to check out my latest article on Medium! [https://medium.com/@chinnarinarashimha/a-more-to-know-about-pandas-series-and-a-small-chunk-of-python-lists-a0e8f3faa1d3](https://medium.com/@chinnarinarashimha)
 
-- 💬 Ask me about **Data Analytics and frontend Development**
-
 - 📫 How to reach me **chinnarinarashimha@gmail.com**
 
 - ✍️ Do Checkout my blogs on Medium: **https://medium.com/@chinnarinarashimha**
