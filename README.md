@@ -10,10 +10,6 @@
 
 <p align="left"> <a href="https://twitter.com/narashimha05" target="blank"><img src="https://img.shields.io/twitter/follow/narashimha05?logo=twitter&style=for-the-badge" alt="narashimha05" /></a> </p>
 
-
-![212741999-016fddbd-617a-4448-8042-0ecf907aea25 (1)](https://github.com/narashimha05/narashimha05/assets/139961244/fd2b37bd-3395-4851-b5b6-6f4f31a44721)
-
-
 - 🔭 I’m currently working on **Backend development and Devops**
 
 - 🌱 I’m currently learning **Express js and Mongodb**
@@ -26,9 +22,9 @@
 
 - 📫 How to reach me **chinnarinarashimha@gmail.com**
 
-- ✍️ Do Check my blogs on Medium: **https://medium.com/@chinnarinarashimha**
+- ✍️ Do check my blogs on Medium: **https://medium.com/@chinnarinarashimha**
 
-### Blogs posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
