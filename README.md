@@ -24,7 +24,7 @@
 
 - ✍️ Do check my blogs on Medium: **https://medium.com/@chinnarinarashimha**
 
-### Blog posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
